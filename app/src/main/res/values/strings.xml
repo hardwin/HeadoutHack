@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OnRoad</string>
+    <string name="app_id">568306166670710</string>
+    <string name="google_app_id">371177471066</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sds">Map</string>
+</resources>
